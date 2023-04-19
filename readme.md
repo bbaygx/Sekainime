@@ -1,3 +1,6 @@
+
+1. CARA FETCH DENGAN CLASS COMPONENT
+
 Untuk merouting halaman di React JS berdasarkan id yang diperoleh dari API, Anda dapat menggunakan React Router dan mengambil data dari API menggunakan library seperti `axios` atau `fetch`.
 
 Berikut adalah langkah-langkah dasar untuk mengimplementasikan React Router dan mengambil data dari API berdasarkan id:
@@ -99,7 +102,8 @@ export default Detail;
 
 Dalam contoh di atas, `Link` dari React Router digunakan untuk membuat tautan ke halaman detail. Dalam `Detail`, `id` diambil dari path URL menggunakan `props.match.params.id` dan kemudian item yang sesuai ditemukan menggunakan `find`.
 
-Dalam contoh ini, ket
+
+2. CARA FETCH DENGAN FUNTION COMPONENT
 
 user: cara router halaman di react berdasarkan id ketika menggunakan Api dengan function components
 
