@@ -105,9 +105,9 @@ Dalam contoh di atas, `Link` dari React Router digunakan untuk membuat tautan ke
 
 2. CARA FETCH DENGAN FUNTION COMPONENT
 
-user: cara router halaman di react berdasarkan id ketika menggunakan Api dengan function components
+Bagaimana cara router halaman di react berdasarkan id ketika menggunakan Api dengan function components?
 
-assistant: Untuk merouting halaman di React JS berdasarkan id yang diperoleh dari API dengan menggunakan function components, Anda dapat mengikuti langkah-langkah berikut:
+Untuk merouting halaman di React JS berdasarkan id yang diperoleh dari API dengan menggunakan function components, Anda dapat mengikuti langkah-langkah berikut:
 
 1. Instalasi React Router dan library untuk mengambil data dari API
 
